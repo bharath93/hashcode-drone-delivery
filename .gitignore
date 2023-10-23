@@ -1,0 +1,8 @@
+# Environment
+venv/
+
+# Output Files
+output/
+
+# Pycache
+**/__pycache__/
